@@ -1,8 +1,4 @@
 # 2nd-semester-task
-class Stack:
-  def_init_(self):
-    self.items = []
-
 def push(self, item):
   self.items.append(item)
 
